@@ -32,7 +32,7 @@ Article 55 is a clean-architecture mobile app that enables secure, transparent d
 
 | Splash Screen | Login Screen | Registration | User Dashboard | Admin Dashboard |
 |---|---|---|---|---|
-| ![Splash](stitch_article_55_screens/article_55_splash_screen/screen.png) | ![Login](stitch_article_55_screens/article_55_login_screen/screen.png) | ![Register](stitch_article_55_screens/article_55_registration_screen/screen.png) | ![User](stitch_article_55_screens/article_55_user_dashboard/screen.png) | ![Admin](stitch_article_55_screens/article_55_admin_dashboard/screen.png) |
+| ![Splash](article_55_screens/article_55_splash_screen/screen.png) | ![Login](article_55_screens/article_55_login_screen/screen.png) | ![Register](article_55_screens/article_55_registration_screen/screen.png) | ![User](article_55_screens/article_55_user_dashboard/screen.png) | ![Admin](article_55_screens/article_55_admin_dashboard/screen.png) |
 
 ---
 
